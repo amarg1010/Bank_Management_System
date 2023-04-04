@@ -1,3 +1,4 @@
+![bankMang img1](https://user-images.githubusercontent.com/107408524/229675552-0cad6558-9b79-4d3b-8e9c-59234792e983.png)
 # Bank_Management_System
 
 Features: Performing all the functionalities of the ATM System, Creating new account for user, Deposite the money,
