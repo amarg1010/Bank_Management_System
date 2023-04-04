@@ -1,4 +1,4 @@
-![bankMang img1](https://user-images.githubusercontent.com/107408524/229675552-0cad6558-9b79-4d3b-8e9c-59234792e983.png)
+
 # Bank_Management_System
 
 Features: Performing all the functionalities of the ATM System, Creating new account for user, Deposite the money,
@@ -9,3 +9,4 @@ normal ATM system. This ATM Simulator System has functionalities like Opening Ba
 MiniStatement, Pin Change etc. Mysql database used for storing all the data of the system.
 
 ![bankMang img2](https://user-images.githubusercontent.com/107408524/229675050-3327b09d-6e31-4140-ac1c-c9d774d31d7b.png)
+![bankMang img1](https://user-images.githubusercontent.com/107408524/229675552-0cad6558-9b79-4d3b-8e9c-59234792e983.png)
